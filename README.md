@@ -1,19 +1,19 @@
 # Hi there, I'm Siddhartha 👋
 
-🎓 Final-year Computer Science student at VTU
-💼 Intern at IISc (DESE), working on urban air mobility decision systems
-🛸 Experienced in AI, quantum-secure communication, UAV systems, bioinformatics, and applied cryptography
+🎓 Final-year Computer Science student at VTU.
+💼 Intern at IISc (DESE), working on urban air mobility decision systems.
+🛸 Experienced in AI, quantum-secure communication, UAV systems, bioinformatics, and applied cryptography.
 
 ---
 
 ### 💡 About Me
 
-- 🔬 I gravitate toward projects that demand **engineering depth**, especially those that turn **complex ideas** into functional systems
-- 🔭 I’m working on projects at the intersection of **AI**, **secure communication**, and **3D reconstruction**
-- 🔐 Currently researching **obfuscation in elliptic curve cryptography**  
-- 🤖 Developed tools like **C3PO** (depth to 3D), **ELINA_GreenFin**, and a **fingerprint-based blood group prediction system**
-- 🌐 Active contributor to student initiatives, language learning clubs, and national-level hackathons
-- 🇯🇵 Can speak Japanese (JLPT N4 certified, currently preparing for N3)
+- 🔬 I gravitate toward projects that demand **engineering depth**, especially those that turn **complex ideas** into functional systems.
+- 🔭 I’m working on projects at the intersection of **AI**, **secure communication**, and **3D reconstruction**.
+- 🔐 Currently researching **obfuscation in elliptic curve cryptography**.
+- 🤖 Developed tools like **C3PO** (depth to 3D), **ELINA_GreenFin**, and a **fingerprint-based blood group prediction system**.
+- 🌐 Active contributor to student initiatives, language learning clubs, and national-level hackathons.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ef-1f1f5.png" width="20"/> Can speak Japanese (JLPT N4 certified, currently preparing for N3)
 
 ---
 

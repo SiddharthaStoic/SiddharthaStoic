@@ -1,7 +1,7 @@
 # Hi there, I'm Siddhartha 👋
 
-🎓 Final-year Computer Science student at VTU
-💼 Intern at IISc (DESE), working on urban air mobility decision systems
+🎓 Final-year Computer Science student at VTU  
+💼 Intern at IISc (DESE), working on urban air mobility decision systems  
 🛸 Experienced in AI, quantum-secure communication, UAV systems, bioinformatics, and applied cryptography
 
 ---

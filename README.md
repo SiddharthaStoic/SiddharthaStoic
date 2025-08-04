@@ -1,7 +1,8 @@
 # Hi there, I'm Siddhartha 👋
 
 🎓 Computer Science Engineer from Bengaluru  
-💼 Intern at IISc (DESE), working on urban air mobility decision systems  
+🛠️ Incoming Software Engineer @ Komatsu Ltd, Japan (2026年入社予定)   
+💼 Ex-Intern at IISc (DESE), working on urban air mobility decision systems  
 🛸 Experienced in AI, quantum-secure communication, UAV systems, bioinformatics, and applied cryptography
 
 ---

@@ -30,6 +30,9 @@
 
 ### 📄 Publications
 
+- **Ensemble Learning Framework for Blood Group Identification Using Fingerprint Patterns**  
+  *ICOCT, IEEE Xplore* – [DOI](https://doi.org/10.1109/ICOCT64433.2025.11118769)
+  
 - **Characterization of Orbits in Cislunar Space for Space Traffic Management**  
   *75th International Astronautical Congress, Milan, Italy* – [DOI](https://doi.org/10.52202/078368-0113)
 
@@ -37,7 +40,7 @@
   *IndustriAI, IIT Madras* – [DOI](https://doi.org/10.21467/proceedings.7.4.8)
 
 - **Cislunar Space Traffic Management System Based on Operational Zones**  
-  *ISTS, Tokushima Prefecture, Japan* – Presented, pending publication in a different journal.
+  *35th International Symposium on Space Technology and Science, Tokushima Prefecture, Japan* – Presented, pending publication in a different journal.
 
 ---
 

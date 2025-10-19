@@ -34,10 +34,10 @@
   *75th International Astronautical Congress, Milan, Italy* – [DOI](https://doi.org/10.52202/078368-0113)
 
 - **Efficient Warehouse Management with Autonomous Drones**  
-  *IndustriAI, IIT Madras* – Accepted, publishing mid-2025
+  *IndustriAI, IIT Madras* – [DOI](https://doi.org/10.21467/proceedings.7.4.8)
 
 - **Cislunar Space Traffic Management System Based on Operational Zones**  
-  *ISTS, Tokushima Prefecture, Japan* – Accepted for 2025 presentation
+  *ISTS, Tokushima Prefecture, Japan* – Presented, pending publication in a different journal.
 
 ---
 

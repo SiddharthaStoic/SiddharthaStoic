@@ -20,10 +20,13 @@
 
 ### 📈 Tech Snapshot
 
-**Languages:** Python, C++, Java, C#, SQL  
-**AI/ML:** PyTorch, TensorFlow, Transformers, OpenCV  
-**Web/Backend:** React, Django, Flask  
-**Systems:** Linux, Docker, Microcontrollers  
+**Languages:** Python, C++, Java, C#   
+**Web and App Frameworks:** Flask, Django, ReactJS   
+**AI/ML and DL:** PyTorch, TensorFlow, Transformers, Fine-tuning, OpenCV  
+**Cloud Platforms:** Google Cloud Platform (Associate), AWS (Foundations)   
+**Dev and Build Tools:** Git, Docker, Podman, Make  
+**Databases:** SQL, PostgreSQL   
+**Methodologies:** SDLC, Agile (Scrum), Version Control, CI/CD, Design Thinking, Rapid Prototyping, TDD   
 **Special interests:** AI, ML, Quantum computing, Cryptography, UAV swarms, bioinformatics
 
 ---

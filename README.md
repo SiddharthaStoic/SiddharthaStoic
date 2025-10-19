@@ -40,7 +40,7 @@
   *IndustriAI, IIT Madras* – [DOI](https://doi.org/10.21467/proceedings.7.4.8)
 
 - **Cislunar Space Traffic Management System Based on Operational Zones**  
-  *35th International Symposium on Space Technology and Science, Tokushima Prefecture, Japan* – Presented, pending publication in a different journal.
+  *35th International Symposium on Space Technology and Science, Tokushima Prefecture, Japan* – Presented, pending publication.
 
 ---
 

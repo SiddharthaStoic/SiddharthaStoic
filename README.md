@@ -14,7 +14,7 @@
 🧠 Currently exploring the intersection of **robotics and AI**   
 🤖 Developed tools like **C3PO** (depth to 3D), **ELINA_GreenFin**, and a **fingerprint-based blood group prediction system**  
 🌐 Active contributor to student initiatives, language learning clubs, and national-level hackathons  
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ef-1f1f5.png" width="15"/> Can speak Japanese (JLPT N4 certified, currently preparing for N3)  
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ef-1f1f5.png" width="15"/> Can speak Japanese (JLPT N3 certified, currently preparing for N2)  
 
 ---
 

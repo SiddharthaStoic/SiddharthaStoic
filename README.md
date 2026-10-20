@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineer based in Japan  
 🛠️ Engineer at Komatsu Ltd, Japan  
-💼 Former Intern at IISc (DESE), working on urban air mobility decision systems  
+💼 Former Intern at IISc (DESE), worked on urban air mobility decision systems  
 🛸 Building things at the intersection of theory and practice.
 
 ---
